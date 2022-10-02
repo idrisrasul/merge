@@ -13,6 +13,8 @@ public class Milkproduct{
 			System.out.println("milk QTY is :"+milkqty);
 			int total_price=milky*milkqty;
 			System.out.println("Total milk price :"+total_price);
+			System.out.println("Total milk price :"+milky);
+			System.out.println("Total milk price :"+milkqty);
 			return total_price;
 		}
 }

@@ -13,6 +13,8 @@ public class FriutsItems extends Milkproduct{
 			System.out.println("apple QTY is :"+appleqty);
 			int total_price=apple*appleqty;
 			System.out.println("Total Apple price :"+total_price);
+			System.out.println("Total Apple price :"+apple);
+			System.out.println("Total Apple price :"+appleqty);
 			return total_price;
 		}
 }
